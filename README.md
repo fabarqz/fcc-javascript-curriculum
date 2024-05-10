@@ -1,0 +1,1 @@
+This repository is dedicated to the outputs I created following the JavaScript Algorithms and Data Structures (Beta) Certification Curriculum from freeCodeCamp.
